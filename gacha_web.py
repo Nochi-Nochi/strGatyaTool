@@ -66,4 +66,4 @@ if st.button("決定！"):
     result2 = result1 + (result1 // 10)
 
     st.success(f"✅ 合計：{result1}連")
-    st.info(f"✨ 合計（星芒込）：{result2}連")
+    st.info(f"✨ 合計（星芒込）：約{result2}連")
